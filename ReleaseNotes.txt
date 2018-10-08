@@ -1,4 +1,4 @@
-Release notes Brazukcoin 1.5.2
+Release notes BitPrivate 1.5.2
 
 - v5 fork to fix chain
 - Zawy LWMA Difficulty algorithm
