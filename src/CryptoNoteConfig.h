@@ -2,7 +2,7 @@
 // Copyright (c) 2014-2018, The Monero project
 // Copyright (c) 2014-2018, The Forknote developers
 // Copyright (c) 2016-2018, The Karbowanec developers
-// Copyright (c) 2018, The Brazukcoin developers
+// Copyright (c) 2018, The BitPrivate developers
 //
 // This file is part of Bytecoin.
 //
