@@ -1,5 +1,5 @@
 // Copyright (c) 2012-2016, The CryptoNote developers, The Bytecoin developers, The Karbowanec developers
-// Copyright (c) 2018, The Brazukcoin developers
+// Copyright (c) 2018, The BitPrivate developers
 //
 // This file is part of Bytecoin.
 //
